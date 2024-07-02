@@ -12,6 +12,7 @@ This repository contains comprehensive study materials and hands-on practice act
       - Chapter 1-1-2 - Data Types | 02_data_types_notebook_Hands_On.ipynb
 
       - Chapter 1-1-3 - Data structures | 03_data_structures_notebook_Hands_On.ipynb
+         <details>
          - Introduction
          - Lists
             - Lists are sequences
@@ -41,7 +42,7 @@ This repository contains comprehensive study materials and hands-on practice act
                - add(x) and remove(x)
                - The function len()
                - The operator in
-
+       </details>
       - Chapter 1-1-4 - Flow control
 
       - Chapter 1-1-5 - Textual interface
