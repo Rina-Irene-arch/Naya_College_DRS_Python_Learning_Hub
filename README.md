@@ -8,10 +8,39 @@ This repository contains comprehensive study materials and hands-on practice act
     * Section 1-1 - Basic Python
 
       - Chapter 1-1-1 - Getting started
-
+         
       - Chapter 1-1-2 - Data Types
 
       - Chapter 1-1-3 - Data structures
+         - Introduction
+         - Lists
+            - Lists are sequences
+            - Indexing and slicing
+            - Common operations
+            - Lists are mutable
+            - Adding elements - append(), insert() & extend()
+            - Removing elements - pop() & remove()
+            - Exercises
+         - Tuples
+            - Tuples are sequences
+            - Tuples are immutable
+            - [optional] Unpacking
+         - Dictionaries
+            - Fundamentals
+            - Lists lookup vs. dictionary lookup
+            - Getting and setting
+            - Limitations
+            - keys(), values() & items()
+            - Common operations
+               - pop(key)
+               - The function len()
+               - The operator in
+         - [optional] Sets
+         - Fundamentals
+         - Common operations
+            - add(x) and remove(x)
+            - The function len()
+            - The operator in
 
       - Chapter 1-1-4 - Flow control
 
