@@ -36,11 +36,11 @@ This repository contains comprehensive study materials and hands-on practice act
                - The function len()
                - The operator in
          - [optional] Sets
-         - Fundamentals
-         - Common operations
-            - add(x) and remove(x)
-            - The function len()
-            - The operator in
+            - Fundamentals
+            - Common operations
+               - add(x) and remove(x)
+               - The function len()
+               - The operator in
 
       - Chapter 1-1-4 - Flow control
 
