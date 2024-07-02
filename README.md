@@ -11,7 +11,7 @@ This repository contains comprehensive study materials and hands-on practice act
          
       - Chapter 1-1-2 - Data Types
 
-      - Chapter 1-1-3 - Data structures | 03_data_structures_notebook_Hands_On.ipynb
+      - Chapter 1-1-3 - Data structures  |  03_data_structures_notebook_Hands_On.ipynb
          - Introduction
          - Lists
             - Lists are sequences
