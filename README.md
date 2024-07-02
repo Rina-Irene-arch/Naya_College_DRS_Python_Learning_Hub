@@ -7,11 +7,11 @@ This repository contains comprehensive study materials and hands-on practice act
 
     * Section 1-1 - Basic Python
 
-      - Chapter 1-1-1 - Getting started
+      - Chapter 1-1-1 - Getting started | 01_getting_started_notebook__Hands_On.ipynb
          
-      - Chapter 1-1-2 - Data Types
+      - Chapter 1-1-2 - Data Types | 02_data_types_notebook_Hands_On.ipynb
 
-      - Chapter 1-1-3 - Data structures  |  03_data_structures_notebook_Hands_On.ipynb
+      - Chapter 1-1-3 - Data structures | 03_data_structures_notebook_Hands_On.ipynb
          - Introduction
          - Lists
             - Lists are sequences
