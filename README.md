@@ -8,7 +8,19 @@ This repository contains comprehensive study materials and hands-on practice act
     * Section 1-1 - Basic Python
 
       - Chapter 1-1-1 - Getting started | 01_getting_started_notebook__Hands_On.ipynb
-         
+         <details>
+         - Basic concepts
+            - Tradition first
+            - Assignment and operations
+            - Case sensitivity
+            - Comments
+            - Printing
+            - Working environment
+            - Indentation
+            - Self-explanatory examples
+            - Example 1 - Interactive Guess-My-Number game
+            - Example 2 - Data exploration
+        
       - Chapter 1-1-2 - Data Types | 02_data_types_notebook_Hands_On.ipynb
          <details>
          - General
@@ -54,8 +66,29 @@ This repository contains comprehensive study materials and hands-on practice act
                - add(x) and remove(x)
                - The function len()
                - The operator in
-       </details>
       - Chapter 1-1-4 - Flow control
+          <details>
+         - The if statement (and friends)
+            - elif and else
+            - Nested if
+            - [optional] Pythonic Truth
+          = The for loop  
+          - Basic Examples
+          - he range() function
+          - Initialization
+          - Everyting (almost) is iterable
+             - Strings
+             - Lists
+             - Tuples
+             - Dictionaries
+             - Exercises
+          - The while loop
+             - Exercises
+           - [optional] Skipping iterations  
+              - Basic examples
+              - Exercises
+             
+          
 
       - Chapter 1-1-5 - Textual interface
 
