@@ -66,7 +66,7 @@ This repository contains comprehensive study materials and hands-on practice act
                - add(x) and remove(x)
                - The function len()
                - The operator in
-      - Chapter 1-1-4 - Flow control
+      - Chapter 1-1-4 - Flow control | 04_flow_control_notebook_Hands_On.ipynb
           <details>
          - The if statement (and friends)
             - elif and else
@@ -87,11 +87,13 @@ This repository contains comprehensive study materials and hands-on practice act
            - [optional] Skipping iterations  
               - Basic examples
               - Exercises
-             
-          
-
-      - Chapter 1-1-5 - Textual interface
-
+       - Chapter 1-1-5 - Textual interface
+          <details>
+         - The input() function
+            - Grand example (guess the number)
+         - String formatting - format()  
+         - String formatting - f-string
+             - Formatting specifications
       - Practice
 
       - Basic Python exercises  
