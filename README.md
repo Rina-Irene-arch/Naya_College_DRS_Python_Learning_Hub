@@ -1,7 +1,7 @@
 # Naya College | Data Research Analyst Learning Hub
 This repository contains comprehensive study materials and hands-on practice activities of the 
 <a href="https://www.naya-college.co.il/courses/data-research-analyst/" target="_blank" rel="noopener">NAYA College Data Research Analyst Program</a> and serves as a central hub for learning resources.
-## Python for Data Analysis
+## Python for Data Analysis Module
 
 - ### Part 1 - Python
 
@@ -137,8 +137,57 @@ This repository contains comprehensive study materials and hands-on practice act
       - Chapter 2-2-1 - json
 
       - Chapter 2-2-2 - Databases (with SQLAlchemy) (optional)
+     
+## Statistica and Probability Module
 
-      - Chapter 2-2-3 - Web scraping (optional)
-
-      - EDA Project (optional)
+- ### Lecture 1 - Descriptive Statistics
+    * 1.1 Practice 1- Descriptive Statistics
+- ### Lecture 2 - Propability
+    * 2.1 Practice 2 - Probability
+    * 2.2 Practice 2 - Probability - more practice
+- ### Lecture 3 - Probability Theory
+    * 3.1 Conditional probability
+    * 3.2 Independent events
+    * 3.3 Law of total probability
+    * 3.4 Bayes theorem
+    * 3.5 Additional Practice Questions
+    * 3.6 Bayes' Theorem: Quick Recap
+- ### Lecture 4 - Combinatorics
+    * 4.1 The Multiplication Principle
+    * 4.2 Types of samples: Ordered and Unordered
+    * 4.3 Sampling Methods
+    * 4.4 Probability calculations using combinatorics
+    * 4.5 Practice Questions
+- ### Lecture 5 - Random Variables
+    * 5.1 What is a random variable?
+    * 5.2 Probability distribution function (PDF) and cumulative distribution function (CDF)
+    * 5.3 Mean and variance
+    * 5.4 Special discrete random variables
+    * 5.5 Binomial Random Variable practice
+    * 5.6 Hypergeometric Random Variable
+    * 5.7 Hypergeometric Random Variable practice
+    * 5.8 Distributions practice
+    * 5.9 Continuous Distributions questions
+- ### Lecture 6 - Random Variables
+    * 6.1 Continuous random variables
+    * 6.2 Probability density function
+    * 6.3 Cumulative distribution function & Quantiles of a distribution
+    * 6.4 Mean and variance
+    * 6.5 Special continuous random variables
+    * 6.6 Practice question 1
+    * 6.7 Practice question 2
+    * 6.8 Lecture 6 More Practice Questions
+- ### Lecture 7 - Time Series and CLT
+    * 7.1 Time series
+    * 7.2 Central limit theorem
+- ### Lecture 8 - Testing
+    * 8.1 A/B testing
+    * 8.2 A/B testing practice
+    * 8.3 Hypothesis testing
+    * 8.4 Examples of Z Test
+    * 8.5 Examples of T Test
+- ### Lecture 9 - Practice Questions
+    * 9.1 Types of Error
+    * 9.2 Chi Square Distributions
+    * 9.3 Normal Distributions
 
