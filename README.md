@@ -142,12 +142,14 @@ This repository contains comprehensive study materials and hands-on practice act
 
       - Chapter 2-2-2 - Databases (with SQLAlchemy) (optional)
      
-## Statistica and Probability Module
-study materials: [NAYA_Statistics_and_Probability_D_Fin.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/NAYA_Statistics_and_Probability_D_Fin.ipynb)
+## Statistics and Probability Module
+Study materials: [NAYA_Statistics_and_Probability_D_Fin.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/NAYA_Statistics_and_Probability_D_Fin.ipynb)
 - ### Lecture 1 - Descriptive Statistics
-    * 1.1 Practice 1- Descriptive Statistics
+    * 1.1 Practice 1- Descriptive Statistics<br>
+      Data source: [Lecture_1_practice_1.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/Lecture_1_practice_1.csv)
 - ### Lecture 2 - Propability
-    * 2.1 Practice 2 - Probability
+    * 2.1 Practice 2 - Probability<br>
+      Data source: [Lecture_2_practice_1.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/Lecture_2_practice_1.csv)
     * 2.2 Practice 2 - Probability - more practice
 - ### Lecture 3 - Probability Theory
     * 3.1 Conditional probability
@@ -187,9 +189,12 @@ study materials: [NAYA_Statistics_and_Probability_D_Fin.ipynb](https://github.co
 - ### Lecture 8 - Testing
     * 8.1 A/B testing
     * 8.2 A/B testing practice
+      Data source: Lecture 8 - Practice Data.csv
     * 8.3 Hypothesis testing
-    * 8.4 Examples of Z Test
-    * 8.5 Examples of T Test
+    * 8.4 Examples of Z Test<br>
+      Data source: [ZTest_Example.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/ZTest_Example.csv), [ZTest_Example_2_samples.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/ZTest_Example_2_samples.csv)
+    * 8.5 Examples of T Test<br>
+      Data source: [T_Test_Example.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/T_Test_Example.csv), [T_Test_Example_2_samples.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/T_Test_Example_2_samples.csv)
 - ### Lecture 9 - Practice Questions
     * 9.1 Types of Error
     * 9.2 Chi Square Distributions
