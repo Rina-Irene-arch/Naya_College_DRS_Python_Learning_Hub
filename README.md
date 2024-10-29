@@ -8,7 +8,8 @@ This repository contains comprehensive study materials and hands-on practice act
     * Section 1-1 - Basic Python
 
       - Chapter 1-1-1 - Getting started<br>
-      Study materials: [01_getting_started_notebook__Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/01_getting_started_notebook__Hands_On.ipynb)
+      Study materials: [01_getting_started_notebook__Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/01_getting_started_notebook__Hands_On.ipynb)<br>
+      Data source: [diamonds.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/diamonds.csv)   
          <details>
          - Basic concepts
             - Tradition first
@@ -21,9 +22,9 @@ This repository contains comprehensive study materials and hands-on practice act
             - Self-explanatory examples
             - Example 1 - Interactive Guess-My-Number game
             - Example 2 - Data exploration
-        
+
       - Chapter 1-1-2 - Data Types<br> 
-      Study materials:[02_data_types_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/02_data_types_notebook_Hands_On.ipynb)
+      Study materials: [02_data_types_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/02_data_types_notebook_Hands_On.ipynb)
          <details>
          - General
          - Numbers
