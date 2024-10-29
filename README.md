@@ -93,16 +93,14 @@ This repository contains comprehensive study materials and hands-on practice act
               - Basic examples
               - Exercises
        - Chapter 1-1-5 - Textual interface
+      Study materials: [05_textual_interface_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/05_textual_interface_notebook_Hands_On.ipynb)
           <details>
          - The input() function
             - Grand example (guess the number)
          - String formatting - format()  
          - String formatting - f-string
              - Formatting specifications
-      - Practice
-
-      - Basic Python exercises  
-
+             - Exercises
     * Section 1-2 - Intermediate Python
 
       - Chapter 1-2-1 - Functions
