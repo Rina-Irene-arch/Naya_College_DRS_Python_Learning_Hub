@@ -7,7 +7,8 @@ This repository contains comprehensive study materials and hands-on practice act
 
     * Section 1-1 - Basic Python
 
-      - Chapter 1-1-1 - Getting started | 01_getting_started_notebook__Hands_On.ipynb
+      - Chapter 1-1-1 - Getting started<br>
+      Study materials: [01_getting_started_notebook__Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/01_getting_started_notebook__Hands_On.ipynb)
          <details>
          - Basic concepts
             - Tradition first
@@ -21,7 +22,8 @@ This repository contains comprehensive study materials and hands-on practice act
             - Example 1 - Interactive Guess-My-Number game
             - Example 2 - Data exploration
         
-      - Chapter 1-1-2 - Data Types | 02_data_types_notebook_Hands_On.ipynb
+      - Chapter 1-1-2 - Data Types<br> 
+      Study materials:[02_data_types_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/02_data_types_notebook_Hands_On.ipynb)
          <details>
          - General
          - Numbers
@@ -35,7 +37,8 @@ This repository contains comprehensive study materials and hands-on practice act
          - Common operations
          - Exercises
 
-      - Chapter 1-1-3 - Data structures | 03_data_structures_notebook_Hands_On.ipynb
+      - Chapter 1-1-3 - Data structures<br> 
+      Study materials: [03_data_structures_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/03_data_structures_notebook_Hands_On.ipynb)
          <details>
          - Introduction
          - Lists
@@ -66,7 +69,8 @@ This repository contains comprehensive study materials and hands-on practice act
                - add(x) and remove(x)
                - The function len()
                - The operator in
-      - Chapter 1-1-4 - Flow control | 04_flow_control_notebook_Hands_On.ipynb
+      - Chapter 1-1-4 - Flow control<br>
+      Study materials: [04_flow_control_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/04_flow_control_notebook_Hands_On.ipynb)
           <details>
          - The if statement (and friends)
             - elif and else
@@ -139,7 +143,7 @@ This repository contains comprehensive study materials and hands-on practice act
       - Chapter 2-2-2 - Databases (with SQLAlchemy) (optional)
      
 ## Statistica and Probability Module
-
+study materials: [NAYA_Statistics_and_Probability_D_Fin.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/NAYA_Statistics_and_Probability_D_Fin.ipynb)
 - ### Lecture 1 - Descriptive Statistics
     * 1.1 Practice 1- Descriptive Statistics
 - ### Lecture 2 - Propability
