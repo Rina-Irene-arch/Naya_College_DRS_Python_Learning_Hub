@@ -117,21 +117,38 @@ This repository contains comprehensive study materials and hands-on practice act
              - enumerate(iterable, start)
              - Zip
           - Built-in functions   
-      - Chapter 1-2-3 - Files and I/O
+      - Chapter 1-2-3 - Files and I/O<br>
+      Study materials: [8_File_objects.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/08_File_objects.ipynb)
+          <details>
+         - Introduction
+         - Open and close
+         - Reading
+            - Read with a for-loop
+            - Read with read()
+         - Writing
+             - Writing methods
+             - Writing modes
+          - Additional notes
+          - Exercises
+             - Exercise 1
+             - Exercise 2
+      - Programming exercises<br>
+      Study materials: [07_functions_exercises_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/07_functions_exercises_Hands_On.ipynb)
+          <details>
+         - Basics
+            - Exercise 1
+            - Exercise 2
+               - part 1
+               - part 2
+               - part 3
+            - Exercise 3
+         - Built-in functions
+             - Exercise (sorted)
+          - More exercises 
+            - Exercise 1
+            - Exercise 2
 
-      - Error handling (optional)
 
-      - Python programming exercises
-
-      - Section 1-3 - Python APIs
-
-      - Chapter 1-3-1 - Beyond the standard library
-
-      - The import statement
-
-      - datetime
-
-      - Programming exercises
 
 - ### Part 2 - Exploratory Data Analysis (EDA)
 
