@@ -92,7 +92,7 @@ This repository contains comprehensive study materials and hands-on practice act
            - [optional] Skipping iterations  
               - Basic examples
               - Exercises
-       - Chapter 1-1-5 - Textual interface
+       - Chapter 1-1-5 - Textual interface<br>
       Study materials: [05_textual_interface_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/05_textual_interface_notebook_Hands_On.ipynb)
           <details>
          - The input() function
@@ -103,8 +103,20 @@ This repository contains comprehensive study materials and hands-on practice act
              - Exercises
     * Section 1-2 - Intermediate Python
 
-      - Chapter 1-2-1 - Functions
-
+      - Chapter 1-2-1 - Functions<br>
+      Study materials: [06_functions_notebook_Hands_On.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Learning_Hub/blob/main/06_functions_notebook_Hands_On.ipynb)
+          <details>
+         - Introduction
+         - The return statement
+            - Multiple return values
+         - Arguments
+             - Default values
+             - Positional Arguments vs. Keyword Arguments
+             - sorted(iterable, key, reverse)
+             - all(iterable) and any(iterable)
+             - enumerate(iterable, start)
+             - Zip
+          - Built-in functions   
       - Chapter 1-2-3 - Files and I/O
 
       - Error handling (optional)
