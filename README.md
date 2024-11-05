@@ -250,9 +250,9 @@ Study materials: [Introducation_to_DS-Hands_On_D_Fin.ipynb](https://github.com/R
    * 8.1 Exercise - my solution
    * 8.2 Exercise - mentor's solution
 - ### 9. Decision Tree
-   * 9.1 Show - No Show Usecase
+   * 9.1 Show - No Show Usecase<br>
   Data source: [Medical No-show.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/Medical%20No-show.csv)
    * 9.2 Over-Fitting <-> Under-Fitting
    * 9.3 Random Forest
-   * 9.4 Titanic use case
+   * 9.4 Titanic use case<br>
   Data source: [titanic.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/titanic.csv)
