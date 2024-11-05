@@ -227,4 +227,32 @@ Study materials: [NAYA_Statistics_and_Probability_D_Fin.ipynb](https://github.co
     * 9.1 Types of Error
     * 9.2 Chi Square Distributions
     * 9.3 Normal Distributions
-
+ 
+## Introduction to Data Science Module
+Study materials: [Introducation_to_DS-Hands_On_D_Fin.ipynb](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/Introducation_to_DS-Hands_On_D_Fin.ipynb)
+- ### 1. What is Data Science?
+- ### 2. Business Understanding
+- ### 3. Data Preparation
+   * 3.1 Missing values
+   * 3.2 Outliers \ Noisy Data
+   * 3.3 Data Transformation
+   * 3.4 Categorical Data
+   * 3.5 One-hot Encoding
+   * 3.6 Label Encoding
+   * 3.7 Frequency Encoding
+- ### 4. Exploratory Data Analysis (EDA)
+- ### 5. Model types
+- ### 6. Model Use Cases
+- ### 7. Tutorial
+  Data source: [diamonds.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/diamonds.csv)
+- ### 8. Exercise
+  Data source: [cakes.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/cakes.csv)
+   * 8.1 Exercise - my solution
+   * 8.2 Exercise - mentor's solution
+- ### 9. Decision Tree
+   * 9.1 Show - No Show Usecase
+  Data source: [Medical No-show.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/Medical%20No-show.csv)
+   * 9.2 Over-Fitting <-> Under-Fitting
+   * 9.3 Random Forest
+   * 9.4 Titanic use case
+  Data source: [titanic.csv](https://github.com/Rina-Irene-arch/Naya_College_DRS_Python_Learning_Hub/blob/main/titanic.csv)
